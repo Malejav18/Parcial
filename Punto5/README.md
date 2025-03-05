@@ -79,40 +79,6 @@ source ~/.zshrc
 
 # ⚡Como usarlo
 
-## Utilizar shell script
-
-Descargar el zip en descargas
-Dar permisos al sh (ejemplo java.sh)
-```
-chmod +x java.sh
-```
-
-Ejecutar el sh
-```
-./java.sh
-```
-
-## Calculadora en java
-
-### Crear el parser
-```
-antlr4 -no-listener -visitor LabeledExpr.g4
-```
-### Compilar el programa
-```
-javac Calc.java LabeledExpr*.java
-```
-### Ejecutar el programa
-```
-java Calc
-```
-Opcionalmente se puede editar y ver las expresiones del caso de prueba t.expr usando
-```
-java Calc t.expr
-
-cat t.expr
-```
-
 ## Calculadora en python
 
 Instalar Python con antlr en macOs

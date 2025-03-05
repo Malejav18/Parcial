@@ -1,7 +1,5 @@
 # Flex
 
-- Maria Alejandra Vargas
-
 Se realizan códigos para ejecutar diferentes tareas con el propósito de aprender y poner a prueba los conocimientos sobre el uso de la herramienta lex para realizar análisis léxico.
 
 # 🧷 Requerimientos necesarios

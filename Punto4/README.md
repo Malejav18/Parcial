@@ -24,16 +24,6 @@ Los resultados obtenidos son los siguientes:
 
 ![iterativoPy](https://github.com/user-attachments/assets/b686c3c2-c498-482a-8975-b927ea014add)
 
-### Recursivo
-- Tiempo de ejecucion (5): 0.0000042200 segundos
-- Tiempo de ejecucion (50): 0.0000353800 segundos
-- Tiempo de ejecucion (500): 0.0003813200 segundos
-
-![recursivoPy](https://github.com/user-attachments/assets/260f6b01-4340-45ab-bf4e-d5666a7084a2)
-
-### Comparación iterativo y recursivo
-![compPy](https://github.com/user-attachments/assets/cdf65217-bc01-4ac3-8384-d029db18f8a3)
-
 ## C
 
 ### Iterativo
@@ -43,15 +33,6 @@ Los resultados obtenidos son los siguientes:
 
 ![iterativoC](https://github.com/user-attachments/assets/bb055290-c1a1-40d7-979c-e253c4c1b000)
 
-### Recursivo
-- Tiempo de ejecucion (5): 0.00000004 segundos
-- Tiempo de ejecucion (50): 0.00000046 segundos
-- Tiempo de ejecucion (500): 0.00000517 segundos
-
-![recursivoC](https://github.com/user-attachments/assets/9686afa9-fa37-4dea-a2b2-3bfd3acc3b7f)
-
-### Comparación iterativo y recursivo
-![compC](https://github.com/user-attachments/assets/8ceb2c79-856c-452f-9be8-a047eae9815a)
 
 ### Comparación entre lenguajes
 
